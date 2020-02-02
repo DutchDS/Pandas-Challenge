@@ -1,4 +1,5 @@
-Week 4 Pandas Homework
+#Week 4 Pandas Challenge
+By A. Rijpkema on 11/2/2019
 
 This week's challenge was rooted in getting to know Pandas and the use of Data Frames.
 
