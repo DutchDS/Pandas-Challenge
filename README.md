@@ -15,4 +15,6 @@ Lastly, the key figures (average math, reading scores, math/reading/overall pass
 * School size
 * Type of school
 
-Conclusions that can be drawn are stated at the bottom.
+Conclusion:
+
+Suprisingly, the lower the average budget per student, the higher the percentage of students that passs both Reading and Math. (passing = 70 or higher grade). Students in smaller schools (1000 students or less) AND medium schools (between 1000 and 2000 students) perform equally well on math and reading. Larger schools, however, perform considerably worse. With a total of 25% of students less passing Math compared to the small and medium sized schools. Charter Schools outperform District schools on both Reading and Math. Charter school's overall passing rate is over 21% points higher than District's school
